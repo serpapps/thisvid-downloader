@@ -2,26 +2,19 @@
 
 
 ## Related
--
 
 ---
-
 <details>
-
 <summary>
   Research
 </summary>
-
 # How to Download ThisVid Videos: Technical Analysis of Stream Patterns, CDNs, and Download Methods
-
 *A comprehensive research document analyzing ThisVid's video infrastructure, embed patterns, stream formats, and optimal download strategies using modern tools*
-
 **Authors**: SERP Apps  
 **Date**: December 2025  
 **Version**: 1.0
-
 ---
-
+- [ThisVid Downloader gist](https://gist.github.com/devinschumacher/2cac2a3e05eef4985aa55deaea4d2c99)
 ## Abstract
 
 This research document provides a technical overview of ThisVid's video delivery pipeline, including KVS-style player configuration, HLS/MP4 assets, and CDN request patterns used for playback and downloads.

@@ -1,0 +1,10 @@
+/* Basic stylesheet for ThisVid Download Manager (non-breaking; inline styles still apply) */
+#thisvid-download-manager {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#thisvid-download-manager .cancel-download-btn:hover {
+  background-color: #f1f3f5;
+}
+#downloads-container {
+  scrollbar-width: thin;
+}
